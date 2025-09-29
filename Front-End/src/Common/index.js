@@ -1,4 +1,4 @@
-const backEndDomin = "http://localhost:3000";
+const backEndDomin = "https://oshop-ru9p.onrender.com";
 
 export const summaryApi = {
   signUp: {
